@@ -5,7 +5,7 @@
  <p style="color:#ff91a4">
  Estudando Java e Programação Orientada a Objetos <br/>
  Cursando Engenharia de Computação <br/>
- Uma estudante apaixonada com um forte interesse em desenvolvimento <br/>
+ Uma estudante apaixonada com um forte interesse em desenvolvimento de softwares <br/>
  Adoro aprender coisas novas
 </p>
 
